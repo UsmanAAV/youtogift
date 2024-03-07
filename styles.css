@@ -29,3 +29,15 @@ button {
     color: green;
     display: none;
 }
+
+.hidden {
+  display: none;
+}
+
+#participantContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Add your other styling as needed */
+
